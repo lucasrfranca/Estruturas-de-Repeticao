@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Escrever um programa em C que leia o nome e o sexo de 56 pessoas. No final informe total de homens e de mulheres. */
+/* Escrever um programa em C que leia o nome e o sexo de 56 pessoas. No final informe total de homens e de mulheres */
 
 main() {
 	
