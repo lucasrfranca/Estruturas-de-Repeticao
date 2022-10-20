@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Faça um programa em C que mostre os números ímpares de 50 até 70 */
+/* Mostra os números ímpares de 50 até 70 */
 
 main() {
 	
